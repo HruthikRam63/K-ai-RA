@@ -5,9 +5,7 @@
 
 ## Project Description
 <br clear="both">
-<img src="https://i.postimg.cc/DZs5vZqs/logo.jpg" align="right" height="250" style="border-radius: 50%; max-width: 200px; max-height: 200px; object-fit: cover;" alt="kAIra Logo"/>
-
-
+<img src="https://i.postimg.cc/DZs5vZqs/logo.jpg" align="right" border-radius: 50%; alt="kAIra Logo"/>
 **kAIra** is a state-of-the-art personal assistant application engineered to transform and streamline everyday tasks through the power of *AI*. This sophisticated tool harnesses advanced speech recognition and natural language processing to facilitate seamless interaction and task management. By offering a diverse array of functionalities—ranging from real-time information retrieval and personalized responses to dynamic web searches and entertainment options—`kAIra` epitomizes the integration of technology into daily life. Its design not only enhances productivity but also enriches user engagement, making it an indispensable asset for modern, tech-savvy individuals.
 
 ## Project Navigation
@@ -181,8 +179,6 @@ Once you have set up the `kAIra` application, you can interact with it as follow
 ## Features
 
 `kAIra` is a versatile voice assistant designed to provide a broad array of services through natural language commands. Here are the primary functionalities available:
-
-### Commands and Actions
 
 - **Greetings**
   - **Command:** "Hello" or "Hey"
