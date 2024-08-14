@@ -1,11 +1,11 @@
 # k*AI*ra: Your *AI*-Driven Personal Assistant
-
 *Unleashing the Power of *AI* in Everyday Tasks*
+
 <h4> kAIra, a cutting-edge voice assistant, orchestrates an array of tasks with unparalleled efficiency. From navigating web portals and delivering real-time updates to personalizing recommendations and providing insightful information, kAIra seamlessly integrates advanced AI capabilities into your daily routine.</h4>
 
 ## Project Description
 <br clear="both">
-<img src="https://i.postimg.cc/DZs5vZqs/logo.jpg"  height="250" align="right" border-radius="50%" alt="kAIra Logo"/>
+<img src="https://i.postimg.cc/DZs5vZqs/logo.jpg"  height="250" align="right" alt="kAIra Logo"/>
 **kAIra** is a state-of-the-art personal assistant application engineered to transform and streamline everyday tasks through the power of *AI*. This sophisticated tool harnesses advanced speech recognition and natural language processing to facilitate seamless interaction and task management. By offering a diverse array of functionalities—ranging from real-time information retrieval and personalized responses to dynamic web searches and entertainment options—`kAIra` epitomizes the integration of technology into daily life. Its design not only enhances productivity but also enriches user engagement, making it an indispensable asset for modern, tech-savvy individuals.
 
 ## Project Navigation
