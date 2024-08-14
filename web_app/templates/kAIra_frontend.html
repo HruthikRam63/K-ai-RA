@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>kAIra - Personal Assistant</title>
+    <link rel="icon" href="{{ url_for('static', filename='images/logo.png') }}" type="image/logo">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/kAIra_UI.css') }}">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Teko:wght@300;400;700&display=swap">
+
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&family=Playfair+Display:wght@700&family=Forum&family=Publico:wght@300;400&family=Caudex&display=swap">
+</head>
+<body>
+    <div class="center-container">
+        <div class="container">
+            <img src="{{ url_for('static', filename='images/logo.png') }}" alt="Logo" class="logo">
+            <h1 class="title">k<span class="highlight">AI</span>ra</h1>
+            <h2 class="heading22">  ...Your Personal Assistant... </h2>
+            <div class="microphone-box" data-tooltip="Click on icon,&#10;Enable microphone settings,&#10;& Speak to interact with site.">
+
+                <img src="{{ url_for('static', filename='images/mic-icon.png') }}" alt="Microphone" class="talk">
+                <div class="mic-text">Come On! Ask me PAL!! <br> 
+                    I'm here to assist you...</div>
+            </div>            
+            <h2 class="content">Click on the microphone to start speaking...</h2>
+        </div>
+    </div>
+    <script src="{{ url_for('static', filename='js/kAIra_features.js') }}"></script>
+</body>
+</html>
