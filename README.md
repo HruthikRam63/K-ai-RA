@@ -5,10 +5,27 @@
 
 ## Project Description
 <br clear="both">
-<img src="https://i.postimg.cc/DZs5vZqs/logo.jpg" align="right" height="250" style="border-radius: 50%; max-width: 200px; max-height: 200px;" alt="kAIra Logo"/>
+<img src="https://i.postimg.cc/DZs5vZqs/logo.jpg" align="right" height="250" style="border-radius: 50%; max-width: 200px; max-height: 200px; object-fit: cover;" alt="kAIra Logo"/>
 
 
 **kAIra** is a state-of-the-art personal assistant application engineered to transform and streamline everyday tasks through the power of *AI*. This sophisticated tool harnesses advanced speech recognition and natural language processing to facilitate seamless interaction and task management. By offering a diverse array of functionalities—ranging from real-time information retrieval and personalized responses to dynamic web searches and entertainment options—`kAIra` epitomizes the integration of technology into daily life. Its design not only enhances productivity but also enriches user engagement, making it an indispensable asset for modern, tech-savvy individuals.
+
+## Project Navigation
+
+- [Project Overview](#kairayour-ai-driven-personal-assistant)
+- [Project Description](#project-description)
+- [Project Directory Structure](#project-directory-structure)
+- [Requirements](#requirements)
+- [Development Setup](#development-setup)
+  - [macOS and Linux](#for-macos-and-linux)
+  - [Windows](#for-windows)
+- [Usage Details](#usage-details)
+- [Features](#features)
+- [Challenges Faced](#challenges-faced)
+- [Further Development](#further-development)
+- [Contributions](#contributions)
+- [Screenshots](#screenshots)
+
 
 ## Project Directory Structure
 
@@ -234,54 +251,36 @@ Once you have set up the `kAIra` application, you can interact with it as follow
 The following enhancements are planned for future versions of `kAIra` to improve functionality and user experience:
 
 - **Enhanced Natural Language Understanding**  
-  We aim to implement advanced NLP models to better process user commands, integrating machine learning algorithms and context-aware processing for more intuitive interactions.
+  - We aim to implement advanced NLP models to better process user commands, integrating machine learning algorithms and context-aware processing for more intuitive interactions.
 
 - **Personalization Features**  
-  Users will be able to customize responses and voice preferences through user profiles that store settings for speech, interaction style, and favorite commands.
+  - Users will be able to customize responses and voice preferences through user profiles that store settings for speech, interaction style, and favorite commands.
 
 - **Expanded Service Integration**  
-  Support for additional services, such as smart home devices and third-party APIs, will be added by developing connectors and integrations for popular services and IoT devices.
+  - Support for additional services, such as smart home devices and third-party APIs, will be added by developing connectors and integrations for popular services and IoT devices.
 
 - **Multilingual Support**  
-  `kAIra` will support multiple languages by implementing language detection and translation features, broadening its accessibility.
+  - `kAIra` will support multiple languages by implementing language detection and translation features, broadening its accessibility.
 
 - **Mobile App Development**  
-  Mobile applications for iOS and Android will be created to offer `kAIra` on-the-go, with synchronized functionalities and notifications.
+  - Mobile applications for iOS and Android will be created to offer `kAIra` on-the-go, with synchronized functionalities and notifications.
 
 - **Improved Security and Privacy**  
-  Data protection and user privacy will be enhanced through encryption and privacy controls for managing data access.
+  - Data protection and user privacy will be enhanced through encryption and privacy controls for managing data access.
 
 ## Contributions
 
 Contributions to the `kAIra` project are welcome! To contribute:
 
-1. **Fork the Repository:**  
-   Create a personal fork of the repository to work on your changes.
-
-2. **Create a New Branch:**  
-   Develop features or fix bugs in a separate branch from `main`. Use descriptive names for your branches, such as `feature/new-command` or `bugfix/fix-time-query`.
-
-3. **Make Your Changes:**  
-   Implement your changes and ensure they adhere to the project's coding standards. Write clear commit messages that describe the purpose of your changes.
-
-4. **Test Your Changes:**  
-   Thoroughly test your changes to ensure they work as expected and do not introduce new issues.
-
-5. **Submit a Pull Request:**  
-   Push your changes to your forked repository and open a pull request (PR) to the `kAIra` main repository. Provide a detailed description of the changes and reference any related issues.
-
-6. **Review Process:**  
-   Collaborate with maintainers and reviewers to address any feedback or requested changes. Maintain open communication and be responsive to review comments.
-
-7. **Code of Conduct:**  
-   Follow the project's code of conduct and adhere to guidelines for respectful and constructive interactions.
-
-By following these guidelines, you help ensure that contributions are integrated smoothly and enhance the overall quality of `kAIra`.
+1. Fork the repository.
+2. Create a new branch for your changes.
+3. Commit your changes and push to your branch.
+4. Open a pull request with a clear description of your changes.
 
 ## Screenshots
 
 <p align="center">
-    <img src="https://i.postimg.cc/grSM6hwt/Screenshot-2024-08-14-220311.png" alt="Screenshot 1" width="300"/>
-    <img src="https://i.postimg.cc/CdSy4bxF/Screenshot-2024-08-14-220245.png" alt="Screenshot 2" width="300"/>
-    <img src="https://i.postimg.cc/MfTdF6LY/Screenshot-2024-08-14-220301.png" alt="Screenshot 3" width="300"/>
+    <img src="https://i.postimg.cc/xjb0nRrb/Screenshot-2024-08-14-220245.png" alt="Screenshot 1" width="300"/>
+    <img src="https://i.postimg.cc/15Pb2cyS/Screenshot-2024-08-14-220311.png" alt="Screenshot 2" width="300"/>
+    <img src="https://i.postimg.cc/cC7266MP/Screenshot-2024-08-14-220301.png" alt="Screenshot 3" width="300"/>
 </p>
